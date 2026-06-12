@@ -25,13 +25,13 @@ Source:
 [`DESCRIPTION`](https://github.com/shikokuchuo/secretbase/blob/main/DESCRIPTION)
 
 Gao C (2026). *secretbase: Cryptographic Hash Functions and Data
-Encoding*. R package version 1.2.2,
+Encoding*. R package version 1.3.0,
 <https://shikokuchuo.net/secretbase/>.
 
     @Manual{,
       title = {secretbase: Cryptographic Hash Functions and Data Encoding},
       author = {Charlie Gao},
       year = {2026},
-      note = {R package version 1.2.2},
+      note = {R package version 1.3.0},
       url = {https://shikokuchuo.net/secretbase/},
     }
